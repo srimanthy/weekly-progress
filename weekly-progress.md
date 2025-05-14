@@ -12,7 +12,7 @@ what i studied so far
    - automating routine tasks  
 
 3. git & github  
-   - clone/fork repos  
+   - clone/fork repos ,git branching 
    - branching, commits, merging,push, pull requests  
 
 4. aws cli  
