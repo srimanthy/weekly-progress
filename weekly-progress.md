@@ -13,7 +13,7 @@ what i studied so far
 
 3. git & github  
    - clone/fork repos  
-   - branching, commits, merging, pull requests  
+   - branching, commits, merging,push, pull requests  
 
 4. aws cli  
    - install/configure (aws configure)  
